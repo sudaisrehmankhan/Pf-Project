@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sudaiskhan/Desktop/Programming Fundamental Project/output/main'
+relocations:     []
+...
